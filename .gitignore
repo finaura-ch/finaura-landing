@@ -12,3 +12,5 @@ yarn-debug.log*
 
 # OS
 .DS_Store
+*.save
+
