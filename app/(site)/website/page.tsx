@@ -1,8 +1,4 @@
-export default function WebsitePage() {
-  return (
-    <div style={{ padding: 40 }}>
-      <h1>FINAURA /website ✅</h1>
-      <p>Pfad: <code>app/(site)/website/page.tsx</code></p>
-    </div>
-  );
-}
+git add 'app/(site)/website/page.tsx'
+git commit -m "feat: landing page"
+git push origin main
+
